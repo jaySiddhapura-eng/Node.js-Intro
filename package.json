@@ -1,0 +1,17 @@
+{
+  "name": "NodeCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "global.js",
+  "scripts": {
+    "dev": "nodemon global.js",
+    "start": "node global.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

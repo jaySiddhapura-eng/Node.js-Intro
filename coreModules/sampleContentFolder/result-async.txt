@@ -1,0 +1,1 @@
+here is the result content of file one !, content of file two !
